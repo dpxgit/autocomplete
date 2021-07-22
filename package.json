@@ -1,13 +1,4 @@
 {
-  "name": "autocomplete",
-  "version": "2.2.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/trevoreyre/autocomplete.git"
-  },
-  "bugs": {
-    "url": "https://github.com/trevoreyre/autocomplete/issues"
-  },
   "private": true,
   "scripts": {
     "postinstall": "lerna bootstrap",
